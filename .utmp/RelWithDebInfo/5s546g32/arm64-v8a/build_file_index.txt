@@ -1,0 +1,2 @@
+C:\Users\pablo\Desktop\TFG\GeometryWithAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\pablo\Desktop\TFG\GeometryWithAR\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

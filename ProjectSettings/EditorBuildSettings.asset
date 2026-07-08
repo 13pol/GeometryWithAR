@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2ed48290a86c2404399d2d3b92180089
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Enviroments.unity
+    guid: 69c1e3f2696899148a7937b60732d098
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: ac77d3ee4d1897740be4c937f2c4e155
+  - enabled: 1
+    path: Assets/Scenes/Fridge.unity
+    guid: 4e87c34030adf544aa0a6e1830a38e00
+  - enabled: 1
+    path: Assets/Scenes/GameDesk.unity
+    guid: e6ae62fcdb2babd42842f419fde3df2b
+  - enabled: 1
+    path: Assets/Scenes/Shelve.unity
+    guid: b6cf6cbcaeb36244e993d21c97a14098
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
