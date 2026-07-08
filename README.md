@@ -1,8 +1,12 @@
-# Geometry Learning Through Augmented Reality
+# Geometry With Augmented Reality
+
+## Instruccions
+
+**Install the apk and scan the different figures in the Photos pdf.
 
 ## Overview
 
-**Geometry Learning Through Augmented Reality** is an educational game developed as a Final Degree Project (TFG) focused on teaching geometry concepts to children with **ACNEE (Students with Special Educational Needs)** through interactive examples and **Augmented Reality (AR)**.
+**Geometry With Augmented Reality** is an educational game developed as a Final Degree Project (TFG) focused on teaching geometry concepts to children with **ACNEE (Students with Special Educational Needs)** through interactive examples and **Augmented Reality (AR)**.
 
 The main goal of the project is to provide an accessible and engaging learning experience where children can understand geometric concepts through visual interaction, real-world examples, and immersive AR experiences.
 
@@ -35,20 +39,10 @@ The main objectives of this project are:
 - Use Augmented Reality as a tool to support teachers and students.
 - Create a motivating environment that encourages learning through experimentation.
 
-## Gameplay
-
-The player interacts with different educational activities where geometric concepts are presented through real-life examples.
-
-Using Augmented Reality, students can visualize and manipulate geometric objects, allowing them to better understand concepts that are usually difficult to represent in traditional learning environments.
-
 ## Author
 
 Developed as a Final Degree Project (TFG).
 
-**Author:** Your Name  
-**Degree:** Your Degree Name  
-**Year:** 2026
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
+**Author:** Pablo Valero Ortega 
+**Degree:** Software engineering degree  
+**Year:** 2025
